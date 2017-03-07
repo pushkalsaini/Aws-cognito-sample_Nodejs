@@ -1,4 +1,4 @@
-# AWS cognito login sample
+# NODE JS: AWS cognito login sample
 1. Edit the .env on root.
 2. Edit the login.ejs file ( like pool id , client id etc..) ( AwsCognitoSample\views\login.ejs).
 
